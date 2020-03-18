@@ -10,7 +10,7 @@ Relationsships:
     Gary Themorster, hunter
 
 ### Johan
-Jaskier
+Leopold
 Wandering philosopher
 Beliefs:
     Something is odd in Varnheim, i will discover what it is
