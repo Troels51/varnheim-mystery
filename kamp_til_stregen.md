@@ -30,3 +30,23 @@ Menig Markus Von Buchwald
 Vil meget lidt i krig. Ser det som et nødvendigt onde
 Har venner på den anden side.
 Søn af obersten
+
+Soldater:
+Stefan Traczyk:
+	Soldat, men har hans lut med, og spiller sange.
+	Romantisk og lethjertet
+
+Renata Balcer
+	Bueskytte, kommer fra en lille landsby hvor hun var jager.
+	Nu er hun blevet soldat
+	Sørgmodig
+
+Ove Silar
+	Stor og stille type. Muskuløs. Var Smed
+	Standhaftig, men bange
+
+Scnypsgül
+
+
+Land:
+	Staria
